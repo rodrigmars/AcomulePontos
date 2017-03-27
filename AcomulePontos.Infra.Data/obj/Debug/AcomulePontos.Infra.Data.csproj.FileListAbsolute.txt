@@ -1,0 +1,5 @@
+F:\Laboratorio\AcomulePontos\AcomulePontos.Infra.Data\bin\Debug\AcomulePontos.Infra.Data.dll
+F:\Laboratorio\AcomulePontos\AcomulePontos.Infra.Data\bin\Debug\AcomulePontos.Infra.Data.pdb
+F:\Laboratorio\AcomulePontos\AcomulePontos.Infra.Data\obj\Debug\AcomulePontos.Infra.Data.csprojResolveAssemblyReference.cache
+F:\Laboratorio\AcomulePontos\AcomulePontos.Infra.Data\obj\Debug\AcomulePontos.Infra.Data.dll
+F:\Laboratorio\AcomulePontos\AcomulePontos.Infra.Data\obj\Debug\AcomulePontos.Infra.Data.pdb
